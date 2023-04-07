@@ -10,6 +10,10 @@ export const DivCard = styled.div`
     justify-content: center;
     align-items: center;
     
+    @media screen and (max-width: 768px) {
+        /* align-items: normal; */
+        
+    }
 `
 
 export const DivImg = styled.div`
@@ -26,7 +30,10 @@ export const DivImg = styled.div`
     border: 1px solid black;
   }
 
-  
+  @media screen and (max-width: 768px) {
+        width: 18em;
+        
+    }
 `
 
 export const DivContent = styled.div`

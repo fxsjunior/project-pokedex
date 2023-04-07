@@ -7,6 +7,8 @@ export const ProjectPokemon = styled.div`
     min-height: 100vh;
     text-align: center;
 
+   
+
 `
 
 export const Header = styled.header`
@@ -15,7 +17,9 @@ export const Header = styled.header`
     align-items: center;
 
     @media screen and (max-width: 768px) {
-        display: block;
+        display: flex;
+        flex-direction: column;
+        
     }
 
 `
@@ -30,6 +34,11 @@ export const Img = styled.img`
     min-width: 200px;
     max-width: 33%;
     border-radius: 50%;
+
+    @media screen and (max-width: 768px) {
+        display: none;
+        
+    }
     
 `
 
