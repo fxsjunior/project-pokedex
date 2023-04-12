@@ -7,8 +7,6 @@ export const ProjectPokemon = styled.div`
     min-height: 100vh;
     text-align: center;
 
-   
-
 `
 
 export const Header = styled.header`

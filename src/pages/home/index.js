@@ -18,7 +18,7 @@ const Main = () => {
                  <SearchPokemon  />
                 <Div>
                     <Img src={backgroundheader} />
-                    <Title>Pokémon</Title>
+                    <Title>PokémoN</Title>
                 </Div>
                 <Switcher />
             </Header>
