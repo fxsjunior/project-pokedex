@@ -67,6 +67,10 @@ export const Div = styled.div`
     color: white;
     gap: 1rem;
   }
+  @media screen and (max-width: 768px) {
+        width: 18em;
+        
+    }
 
 `
 

@@ -38,6 +38,11 @@ export const Img = styled.img`
         
     }
     
+    @media screen and (max-width: 768px) {
+        display: none;
+        
+    }
+    
 `
 
 export const Title = styled.h1`

@@ -15,3 +15,24 @@ Foi utilizada a biblioteca React para criar components extraídos da [PokemonAPI
 
 No momento em que o usuário clica em qualquer pokémon ele é direcionado para uma página com as informações do pokémon selecionado, o card informa nome, abilidades, movimentos e tipo. Foi utilizado o Rotas do React Router DOM.
 
+<hr>
+ 
+                                                      🛠️ Tecnologias Utilizadas
+
+* JavaScript
+* React
+   - Context.API
+   - Styled Components
+   - React Router DOM
+   - useState
+   - useEffect
+* [Pokémon API](https://pokeapi.co/).
+
+
+<hr>
+
+                                                      🕘 Status
+                                                      
+Para a finalidade de cumprir com desafio do curso, o projeto está concluído. Porém, mantenho o status em aberto para futuras implementações de outras funcionalidades.                                                 
+
+🙋‍♂️ Perfil no LinkedIn -  [Francisco Xavier](https://www.linkedin.com/in/fxs-junior/)                                       
